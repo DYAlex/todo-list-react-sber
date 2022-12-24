@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-list-react-sber/static/css/main.2ec13d64.css",
+    "main.js": "/todo-list-react-sber/static/js/main.1add9bc0.js",
+    "index.html": "/todo-list-react-sber/index.html",
+    "main.2ec13d64.css.map": "/todo-list-react-sber/static/css/main.2ec13d64.css.map",
+    "main.1add9bc0.js.map": "/todo-list-react-sber/static/js/main.1add9bc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec13d64.css",
+    "static/js/main.1add9bc0.js"
+  ]
+}
